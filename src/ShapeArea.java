@@ -8,6 +8,7 @@ public class ShapeArea {
 		System.out.println("Modified by x");
 		
 		System.out.println("Modified on 07/05");
+		System.out.println("added new line in eclipse 0705 10:41");
 	}
 
 }
